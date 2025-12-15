@@ -71,7 +71,7 @@ The project involves web scraping over 3,500 movies, engineering features relate
 
 Based on estimated inputs (Budget: $400M, Trailer Views: \~30M+), the model predicts:
 
-> **Predicted Global Box Office:** \~$1,039,533,540.60 (Replace with your final number)
+> **Predicted Global Box Office:** \~$1,039,533,540.60
 
 ## 📜 Credits
 
