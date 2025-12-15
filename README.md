@@ -1,7 +1,4 @@
-# Avatar-Fire-and-Ash-Box-Office-Prediction
-The primary goal of this project is to predict the global box office revenue for the upcoming movie "Avatar: Fire and Ash" (Release Date: Dec 19, 2025)
-
-# 🎬 Avatar: Fire and Ash - Box Office Prediction Project
+# Avatar: Fire and Ash - Box Office Prediction Project
 
 ## Project Overview
 This project is an end-to-end machine learning pipeline designed to predict the global box office revenue of the upcoming movie **"Avatar: Fire and Ash"** (Release Date: Dec 19, 2025).
