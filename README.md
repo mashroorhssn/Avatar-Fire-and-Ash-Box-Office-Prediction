@@ -18,9 +18,8 @@ The project involves web scraping over 3,500 movies, engineering features relate
 
 ## Repository Structure
 ```
-
-├── notebooks/
-│   └── Box\_Office\_Prediction.ipynb   \# Main Colab notebook with all code
+Avatar-Fire-and-Ash-Box-Office-Prediction/
+├── Box\_Office\_Prediction.ipynb   \# Main Colab notebook with all code
 ├── data/
 │   ├── raw\_movie\_data.csv            \# Raw scraped data from TMDB/YouTube
 │   └── final\_movie\_data.csv          \# Cleaned and processed data used for training
